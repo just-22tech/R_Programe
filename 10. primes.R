@@ -12,7 +12,6 @@ for (i in 2:1000) {
     }
   }
   
-  
   if (is_prime == TRUE) {
     primes <- c(primes, i)
   }
